@@ -1,5 +1,5 @@
 {
-  "name": "@expressgradient/ezrel",
+  "name": "@the-ez-org/ezrel",
   "version": "0.1.0-beta.1",
   "description": "Easy Peasy Relations",
   "main": "dist/index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ExpressGradient/ezrel.git"
+    "url": "git+https://github.com/the-ez-org/ezrel.git "
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
