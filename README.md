@@ -7,12 +7,12 @@ Input the structure of your data in plain JS/TS objects with a PostgreSQL instan
 ## Quickstart
 Install the package as a dev dependency.  
 ```
-npm install --dev expressgradient/ezrel
+npm install --dev the-ez-org/ezrel
 ```
 
 Import the `createSchema` function and supply the table objects.  
 ```js
-const { createSchema } = require("@expressgradient/ezrel");
+const { createSchema } = require("@the-ez-org/ezrel");
 
 const Demo = {
     name: "demo",
